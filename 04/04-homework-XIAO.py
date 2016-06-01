@@ -137,7 +137,7 @@ for playlist in playlists:
 # 23. What is the data type of a playlist's 'tracks'?
 playlist_track = playlist['tracks']
 print(type(playlist_track))
-# 24. Print the name of the playlist and number of tracks for every playlist
+# 24. Print the name and number of tracks for every playlist
 # checking print(playlist_track.keys()): dict_keys(['href', 'total'])
 for playlist in playlists:
     print(playlist['name'],'has',playlist['tracks']['total'], 'tracks.')
