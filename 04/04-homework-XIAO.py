@@ -1,5 +1,5 @@
 # Shuyao Xiao
-# 6/1/2016
+# 06/01/2016
 # Homework 3
 #
 # MAKE SURE YOU ARE RUNNING THIS WITH PYTHON 3!
