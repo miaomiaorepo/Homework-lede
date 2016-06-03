@@ -1,4 +1,4 @@
 # foundations-hw
-homework4
+homework-4
 # data&databases
 homework-week2
