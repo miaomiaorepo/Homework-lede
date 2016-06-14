@@ -6,7 +6,7 @@
 ####06/Homework-06-Forecast.io
 ###### Date:06/11/2016
 # data&databases-hw
-####homework-week2
+####Homework_2_ShuyaoXiao
 ###### date:06/03/2016
 ####Homework_3_ShuyaoXiao
 ###### date:06/13/2016
