@@ -1,6 +1,12 @@
 # foundations-hw
 ####04/homework-4
-###### Date:6/1/2016
+###### Date:06/01/2016
+####05/homework-05-spotify&NYT
+###### Date:06/11/2016
+####06/Homework-06-Forecast.io
+###### Date:06/11/2016
 # data&databases-hw
-####homework-week2
-###### date:6/3/2016
+####Homework_2_ShuyaoXiao
+###### date:06/03/2016
+####Homework_3_ShuyaoXiao
+###### date:06/13/2016
