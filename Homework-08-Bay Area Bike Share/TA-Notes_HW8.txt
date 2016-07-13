@@ -1,0 +1,4 @@
+Grade: 10 / 10
+
+Good job! Note that you probably shouldn't plot categorical variables using a line chart (your second to last chart is a line graph, but the x-axis lists cities). Let me know if you have anymore questions about this! 
+
